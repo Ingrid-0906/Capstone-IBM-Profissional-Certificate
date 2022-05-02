@@ -18,7 +18,7 @@ The project will culminate with a presentation of your data analysis report, wit
 <br>
 This project is a great opportunity to showcase your Data Science skills, and demonstrate your proficiency to potential employers.
 
-**More Information**
+**More Information**<br>
 Please, see at _lab-reading-project-overview.md.pdf_.
 
 **Author(s)**<br>
@@ -27,7 +27,7 @@ Jeff Grossman
 **Other Contributor(s)**<br>
 Yan Luo, Rav Ahuja
 
-**Changelog**
+**Changelog**<br>
 |Date (YYYY-MM-DD)	|Version	Changed By |Change Description
 | :---: |:---:|:---:|
 |2021-05-01	        |1.1	->  Yan	       |Content updates
