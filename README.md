@@ -19,7 +19,7 @@ The project will culminate with a presentation of your data analysis report, wit
 This project is a great opportunity to showcase your Data Science skills, and demonstrate your proficiency to potential employers.
 
 **More Information**
-Please, see at .
+Please, see at _lab-reading-project-overview.md.pdf_.
 
 **Author(s)**<br>
 Jeff Grossman
